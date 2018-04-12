@@ -21,6 +21,8 @@ my_data = np.loadtxt('WM_1.csv', delimiter=',', skiprows=6)
 
 plt.pcolormesh(my_data,vmin=-5.5, vmax=-5.0)
 
+print('Hello world')
+
 #y1=375
 #y2=430
 #y3=.5*(y1+y2)
