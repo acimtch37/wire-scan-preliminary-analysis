@@ -1,0 +1,6 @@
+#Linux Components
+*~
+*.swp
+
+#Python Files
+*.pyc
