@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 import csv
 import numpy as np
 
+print('hello')
+
 
 #with open('WM_1.csv','r') as csvfile:
 #    datareader = csv.reader(csvfile, delimiter=',')
